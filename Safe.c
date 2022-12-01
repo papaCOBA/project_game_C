@@ -78,7 +78,7 @@ void SensorQuestion() {
     printf("LEAVE WHILE YOU CAN BEFORE THE\n");
     printf("POLICE GET HERE.\n");
     printf("WANT TO TRY THE SAME SAFE ");
-    ranC();
+    С = rnd(99);
     char* SensorQuestion = malloc(10);
     scanf("%s", SensorQuestion);
     while (1) {
@@ -232,10 +232,6 @@ int goto_860_500_850()
         }
 }
 
-void ranC() {
-   C = rnd(99);
-}
-
 int main() {
 
     printSpaces(28);
@@ -278,7 +274,7 @@ int main() {
     }
     A = rnd(99);
     B = rnd(99);
-    ranC();
+    C = rnd(99);
     /*  printf("%d", A); Answers for passing the game number -2
         printf("%d", B); 
         printf("%d", C); */
