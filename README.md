@@ -56,3 +56,5 @@ cd emsdk
 # Android
 
 Для запуска игры на Android вам необходимо скачать и установить компилятор C/C++. Затем сохраните файл с исходным кодом из этого репозитория с расширением .c и запустите компилятор.
+
+![uB7UZqpkdE79Cr-XrVEhj9xkE32JQOYr4mxDJAACOiY-9gmAbGwIHair7-03sO2rhA4hntfrDx8VfMVS6xuVYyjl](https://user-images.githubusercontent.com/78841422/205080543-053f00ca-9a23-44c9-abfe-e40d829b3630.jpg)
